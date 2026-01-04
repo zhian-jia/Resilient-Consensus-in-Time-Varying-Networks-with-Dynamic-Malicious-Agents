@@ -184,4 +184,5 @@ function u = wsrFuno(A, i, rec_x, self_x, self_v, n)
     if offset==0  %|| u == 0
         u = -self_v;
     end  
+
 end
